@@ -12,17 +12,18 @@ body {
 }
 
 /* Navbar  */
-.navbar {
+/* .navbar {
   background-color: white;
   height: 5rem;
-}
+} */
 .fa-compass {
   color: #fe424d;
   font-size: 2rem;
 }
+/*
 .nav-link {
   color: #222222 !important;
-}
+} */
 
 /* Footer  */
 .f-info-links a {
@@ -62,6 +63,9 @@ body {
   border: none !important;
   margin-bottom: 2rem;
 }
+.review-card{
+  /* width: 400px !important; */
+}
 .card-img-top {
   border-radius: 1rem !important;
   /* width: 100% !important; */
@@ -97,6 +101,7 @@ body {
 .edit-btn {
   background-color: #fe424d !important;
   border: none !important;
+  width: 5rem !important;
 }
 
 /* Show Page */
@@ -118,3 +123,5 @@ body {
   height: 400px;
   width: 80vh;
 }
+
+
